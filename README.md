@@ -1,2 +1,3 @@
-# Slug-Generator
+# Slug Generator
+
 An open source JavaScript based URL slug generator.
